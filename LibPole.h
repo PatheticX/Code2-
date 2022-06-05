@@ -1,0 +1,1 @@
+void Pole(int a); 
